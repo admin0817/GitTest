@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class GitBootApplication {
-	// 加点东西 new  正确的 +1
+	// 加点东西 new  正确的 +2
 	public static void main(String[] args) {
 		SpringApplication.run(GitBootApplication.class, args);
 	}
